@@ -1,0 +1,61 @@
+What is your name?
+ 
+Where did you study?
+ 
+Do you have  work experience?
+ 
+What is your preferred programming language?
+ 
+----------------------------------------------------
+What is your name?
+ 
+Where did you study?
+ 
+Do you have  work experience?
+ 
+What is your preferred programming language?
+ 
+----------------------------------------------------
+What is your name?What is your name?
+ 
+Where did you study?
+ 
+Do you have  work experience?
+ 
+What is your preferred programming language?
+ 
+----------------------------------------------------
+What is your name?What is your name?
+ j
+Where did you study?What is your name?What is your name?
+ j
+Where did you study?
+ j
+Do you have  work experience?
+ k
+What is your preferred programming language?
+ k
+----------------------------------------------------
+What is your name?
+ l
+Where did you study?
+ l
+Do you have  work experience?
+ ll
+What is your preferred programming language?
+ ;l
+----------------------------------------------------
+What is your name?
+ k
+Where did you study?What is your name?
+ l
+Where did you study?
+ l
+Do you have  work experience?
+ l
+What is your preferred programming language?
+ l
+----------------------------------------------------
+What is your name?What is your name?
+ h
+Where did you study?
